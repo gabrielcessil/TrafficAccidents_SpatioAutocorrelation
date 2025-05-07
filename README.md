@@ -108,7 +108,6 @@ In `main_AnomalyDetection.py`, you can change:
 
 ## 📄 License
 
-This project is intended for academic and research purposes.  
 Feel free to modify and adapt it to your dataset!
 
 
