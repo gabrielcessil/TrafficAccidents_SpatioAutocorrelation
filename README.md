@@ -78,14 +78,12 @@ The analysis mainly focuses on the **effects of lockdown events** on accident pa
   - `seaborn`
   - `scipy`
   - `statsmodels`
-  - `scikit-learn`
-  - `adjustText`
-  - A working LaTeX distribution (e.g., **TeX Live** or **MikTeX**) to compile PDFs.
+  - `scikit-learn'
 
 Install Python libraries with:
 
 ```bash
-pip install pandas numpy matplotlib seaborn scipy statsmodels scikit-learn adjustText
+pip install pandas numpy matplotlib seaborn scipy statsmodels scikit-learn
 ```
 
 (And install a LaTeX compiler separately.)
