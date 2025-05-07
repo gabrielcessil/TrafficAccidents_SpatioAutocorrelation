@@ -86,8 +86,6 @@ Install Python libraries with:
 pip install pandas numpy matplotlib seaborn scipy statsmodels scikit-learn
 ```
 
-(And install a LaTeX compiler separately.)
-
 ---
 
 ## ⚙ Configuration
